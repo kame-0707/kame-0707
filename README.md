@@ -11,4 +11,6 @@
 ## ポートフォリオ
 
 #### バンド活動をする社会人に向けた、タスク管理ツール「 [bandmemo](https://bandmemo-app.com/) 」
+(GitHubリポジトリ：[graduation_bandmemo](https://github.com/kame-0707/graduation_bandmemo))
+
 [![Image from Gyazo](https://i.gyazo.com/35c01695ae5f80b111b5ee763e70c76b.png)](https://gyazo.com/35c01695ae5f80b111b5ee763e70c76b)
