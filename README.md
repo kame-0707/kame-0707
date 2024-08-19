@@ -1,16 +1,14 @@
-## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kame-0707&show_icons=true&theme=catppuccin_latte)
+ 
+<p align="left">
+  <a href="http://twitter.com/kamekame_manabi">
+    <img height="20" src="https://img.shields.io/twitter/follow/kamekame_manabi?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+ 
+ 
 
-<!--
-**kame-0707/kame-0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ポートフォリオ
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### バンド活動をする社会人に向けた、タスク管理ツール「 [bandmemo](https://bandmemo-app.com/) 」
+<img src="https://gyazo.com/35c01695ae5f80b111b5ee763e70c76b">
