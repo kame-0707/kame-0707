@@ -5,6 +5,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/kamekame_manabi?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
+note: https://note.com/clever_laelia367
  
  
 
