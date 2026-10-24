@@ -11,7 +11,7 @@ note: https://note.com/clever_laelia367
 
 ## ポートフォリオ
 
-#### バンド活動をする社会人に向けた、タスク管理ツール「 [bandmemo](https://bandmemo-app.com/) 」
+#### バンド活動をする社会人に向けた、タスク管理ツール「bandmemo」
 GitHubリポジトリ：[graduation_bandmemo](https://github.com/kame-0707/graduation_bandmemo)<br>
 技術記事：https://qiita.com/kame-0707/items/9891c2a4c3edb7ed6d78
 
